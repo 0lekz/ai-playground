@@ -47,7 +47,7 @@ I am currently working on:
 - Fine-tuning and evaluating **DeBERTa-v3-large** on the MAP competition dataset (Kaggle)
 - Understanding **transformer internals** through Karpathy's "GPT from scratch" series and other sources
 
-## Long-Term Vision
+# Long-Term Vision
 
 I will try my best to grow this repository into a structured open resource with:
 - **Theory:** (some-what)clear explanations and linked research
@@ -55,12 +55,12 @@ I will try my best to grow this repository into a structured open resource with:
 - **Transparency:** all resources I've used, plus possibly additional links to explore
 - **Reflection (possibly):** honest documentation and additional blogs of how concepts "clicked" for me, not just raw data and resources.
 
-## Related Links
+# Related Links
 
 - [My Kaggle Profile](https://www.kaggle.com/zhukovoleksiy) - (more projects and competition's solutions there)
 - [LinkedIn](https://www.linkedin.com/in/oleksiizhukov/)
 - [Telegram](https://t.me/zhukovoleksii) & [X](https://x.com/oleksii_zh) - if you wish to contact / have questions about this repo
 
-## License
+# License
 
 MIT License.
