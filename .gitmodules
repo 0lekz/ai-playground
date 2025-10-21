@@ -1,0 +1,3 @@
+[submodule "01_micrograd_pro"]
+	path = 01_micrograd_pro
+	url = https://github.com/0lekz/micrograd_pro.git
