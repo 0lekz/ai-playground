@@ -5,3 +5,6 @@
 [submodule "mimic-recognition"]
 	path = mimic-recognition
 	url = https://github.com/0lekz/mimic-recognition.git
+[submodule "02_mimic_recognition"]
+	path = 02_mimic_recognition
+	url = https://github.com/0lekz/mimic-recognition.git
