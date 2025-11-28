@@ -21,6 +21,10 @@ Features:
 
 **Try experiencing yourself by forking micrograd_pro repo**
 
+### 02_mimic_recognition
+
+...
+
 # Philosophy
 This repository is a living record of my learning process in artificial intelligence, deep learning, machine learning, research engineering and similar topics.
 Each subfolder represents a step in that journey; from basic neural networks to transformers, large language models, agents and more.
