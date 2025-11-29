@@ -22,8 +22,16 @@ Features:
 **Try experiencing yourself by forking micrograd_pro repo**
 
 ### 02_mimic_recognition
+**Mimic Recognition** — a lightweight real-time facial emotion recognition demo built with a custom CNN, trained first on FER2013 and then fine-tuned on my own webcam data.
 
-...
+Features:
+- custom 3-layer CNN on 48×48 grayscale faces (no pretrained backbone)
+- FER2013 base training + fine-tuning on a small personal dataset
+- real-time webcam inference with OpenCV face detection
+- live class probability overlay, reaction images, and emotion-based sound effects
+- CSV logging of predictions with timestamps and confidence scores
+
+[YouTube demo](https://www.youtube.com/shorts/j7u5kU45kwE)
 
 # Philosophy
 This repository is a living record of my learning process in artificial intelligence, deep learning, machine learning, research engineering and similar topics.
