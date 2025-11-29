@@ -2,10 +2,6 @@
 	path = 01_micrograd_pro
 	url = https://github.com/0lekz/micrograd_pro.git
 	branch = main
-[submodule "02_mimic-recognition"]
-	path = 02_mimic-recognition
-	url = https://github.com/0lekz/mimic-recognition.git
-	branch = main
 [submodule "02_mimic_recognition"]
 	path = 02_mimic_recognition
 	url = https://github.com/0lekz/mimic-recognition.git
